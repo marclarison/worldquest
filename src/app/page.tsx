@@ -1,22 +1,24 @@
+import CountryCard from "../components/CountryCard";
+import { countries } from "../data/countries";
+
 export default function Home() {
   return (
-    <main className="min-h-screen bg-slate-50 flex flex-col items-center justify-center text-center px-6">
-      <h1 className="text-5xl font-bold text-blue-600 mb-4">
+    <main className="min-h-screen bg-slate-50 p-8">
+      <h1 className="text-4xl font-bold text-blue-600 mb-2">
         WorldQuest 🌍
       </h1>
 
-      <p className="text-lg text-slate-600 max-w-2xl mb-8">
+      <p className="text-slate-600 mb-8">
         Master the world, one country at a time.
       </p>
 
-      <div className="flex gap-4">
-        <button className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700">
-          Start Learning
-        </button>
-
-        <button className="border border-slate-300 px-6 py-3 rounded-lg hover:bg-slate-100">
-          Explore Countries
-        </button>
+      <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {countries.map((country) => (
+          <CountryCard
+            key={country.id}
+            country={country}
+          />
+        ))}
       </div>
     </main>
   );
