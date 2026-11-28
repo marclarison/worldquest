@@ -3,26 +3,30 @@ import { Country } from "../types/country";
 export const countries: Country[] = [
   {
     id: 1,
+    code: "ng",
     name: "Nigeria",
     capital: "Abuja",
     continent: "Africa",
     population: "220 Million",
-    flag: "🇳🇬",
+    description:
+      "Nigeria is the most populous country in Africa.",
   },
   {
     id: 2,
+    code: "jp",
     name: "Japan",
     capital: "Tokyo",
     continent: "Asia",
     population: "125 Million",
-    flag: "🇯🇵",
+    description:"" ,
   },
   {
     id: 3,
+    code: "br",
     name: "Brazil",
     capital: "Brasília",
     continent: "South America",
     population: "203 Million",
-    flag: "🇧🇷",
+    description: "",
   },
 ];

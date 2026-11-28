@@ -1,4 +1,4 @@
-WORLDQUEST ARCHITECTURE
+VEXILLUM ARCHITECTURE
 
 Frontend
 
@@ -25,7 +25,7 @@ Hosting
 
 Main Project Structure
 
-worldquest/
+VEXILLUM/
 
 - docs/
 - public/

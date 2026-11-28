@@ -1,66 +1,43 @@
-WORLDQUEST VISION
+VEXILLUM
 
-Mission
+Know the world. One flag at a time.
 
-To make learning about the world fun, interactive and memorable through gamified exploration, personalised learning and engaging challenges.
+MISSION
 
-Vision
+Vexillum helps people discover, learn and master the countries of the world through interactive exploration, collections, challenges and progressive learning.
 
-WorldQuest aims to become the go-to platform for learning about countries, flags, capitals, geography, cultures and global facts.
+VISION
 
-Instead of memorising information, users will progressively master knowledge about the world through exploration, quizzes and achievement-based learning.
+To become the most engaging platform for discovering the world.
 
-Problem Statement
+Rather than treating geography as a subject to memorise, Vexillum transforms learning into a journey of exploration and collection.
 
-Most geography learning platforms focus heavily on memorisation and become repetitive after a short time.
+CORE PILLARS
 
-Users need a platform that makes learning about countries engaging while helping them retain knowledge over time.
+1. Discover
 
-Target Audience
+Explore countries through flags, maps, facts and stories.
 
-Primary Users:
+2. Learn
+
+Build knowledge through profiles, collections and quizzes.
+
+3. Collect
+
+Track countries learned and build a personal world collection.
+
+4. Challenge
+
+Test knowledge through interactive quiz modes.
+
+TARGET USERS
+
 - Students
 - Geography enthusiasts
 - Quiz lovers
-- Travellers
-- Lifelong learners
+- Curious learners
+- General knowledge enthusiasts
 
-Secondary Users:
-- Teachers
-- Parents
-- Schools
-- Educational organisations
+SUCCESS STATEMENT
 
-Core Principles
-
-1. Learning should feel like a game.
-
-2. Progress should be visible.
-
-3. Curiosity should drive discovery.
-
-4. Knowledge should be retained, not temporarily memorised.
-
-5. Begin simple and expand over time.
-
-What WorldQuest Is
-
-- A geography learning platform
-- A country exploration platform
-- A quiz and challenge platform
-- A personal world knowledge tracker
-
-What WorldQuest Is Not
-
-- A travel booking platform
-- A social media platform
-- An encyclopedia replacement
-- A traditional classroom system
-
-Long-Term Goal
-
-To help users develop a deep understanding of the world by enabling them to progressively master all countries through exploration, learning, practice and achievement.
-
-Success Statement
-
-"I know more about the world today than I did yesterday."
+A successful Vexillum user should feel progressively closer to mastering the world, one country at a time.
