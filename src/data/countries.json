@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "code": "ng",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "population": "220 Million",
+    "description": "Nigeria is the most populous country in Africa."
+  },
+  {
+    "id": 2,
+    "code": "jp",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "population": "125 Million",
+    "description": "Japan is an island nation in East Asia."
+  },
+  {
+    "id": 3,
+    "code": "br",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "continent": "South America",
+    "population": "203 Million",
+    "description": "Brazil is the largest country in South America."
+  }
+]

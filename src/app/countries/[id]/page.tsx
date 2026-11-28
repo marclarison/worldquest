@@ -1,4 +1,4 @@
-import { countries } from "../../../data/countries";
+import { getCountries } from "../../../services/countryService";
 
 type Props = {
   params: Promise<{
@@ -11,11 +11,12 @@ export default async function CountryPage({
 }: Props) {
   const { id } = await params;
 
+  const countries = getCountries();
+
   const country = countries.find(
     (country) =>
       country.name.toLowerCase() === id.toLowerCase()
   );
-
   if (!country) {
     return (
       <main className="p-8">

@@ -3,10 +3,12 @@
 import { useState } from "react";
 import CountryCard from "../../components/CountryCard";
 import SearchBar from "../../components/SearchBar";
-import { countries } from "../../data/countries";
+import { getCountries } from "../../services/countryService";
 
 export default function Home() {
   const [search, setSearch] = useState("");
+
+  const countries = getCountries();
 
   const filteredCountries = countries.filter((country) =>
     country.name.toLowerCase().includes(search.toLowerCase())
